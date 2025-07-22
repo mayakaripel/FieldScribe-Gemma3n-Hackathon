@@ -1,6 +1,6 @@
 FieldScribe: A Multimodal Agricultural Co-Pilot, Fulfilling the "Gemma 3n" Vision
 Hackathon Track: Environmental Sustainability / Accessibility
-Live Demo: [https://www.kaggle.com/code/mayakaripel/fieldscribe-interactive-demo]
+Live Demo: [https://www.kaggle.com/code/mayakaripel/fieldscribe-interactive-demo1;https://www.kaggle.com/code/mayakaripel/fieldscribe-interactive-demo]
 Code Repository: [https://github.com/mayakaripel/FieldScribe-Gemma3n-Hackathon]
 
 Abstract
